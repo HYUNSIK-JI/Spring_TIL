@@ -40,10 +40,7 @@ public class HelloController {
 
 http://localhost:8080/hello-mvc?name=spring
 
-
-
-![MVC,템플릿 엔진이미지](C:\Users\user\Desktop\스프링이미지\MVC,템플릿 엔진이미지.png)
-
+![MVC,템플릿 엔진이미지](https://user-images.githubusercontent.com/59475851/213438431-99b2092e-198f-481b-a9bf-7a4e14edcf7a.png)
 
 
 ## API
@@ -78,8 +75,8 @@ public class HelloController {
 
 결과 => **Json 형식으로 출력이 된다.**
 
-![API반환이미지](C:\Users\user\Desktop\스프링이미지\API반환이미지.png)
 
+![API반환이미지](https://user-images.githubusercontent.com/59475851/213438466-6916114d-1a87-4e0c-aa25-ecc9651090f1.png)
 
 
 **XML 방식이나, JSON 방식이 있는데 레거시 프로젝트가 아닌 이상 대부분 Json 방식을 쓴다.**
@@ -88,9 +85,7 @@ public class HelloController {
 
 @ResponseBody 어노테이션이 달려있는 함수에 **객체**를 넘겨주면 HttpMessageConverter 중 JsonConverter가 선택되어 Json으로 화면에 출력이 된다.
 
-![API 방식 이미지](C:\Users\user\Desktop\스프링이미지\API 방식 이미지.png)
-
-
+![API 방식 이미지](https://user-images.githubusercontent.com/59475851/213438489-0447b4d4-02eb-4ffc-84c9-b48558dffd0a.png)
 
 **@ResponseBody를 사용한다**
 
