@@ -204,20 +204,14 @@ DataSource는 데이터베이스 커넥션을 획득할 때 사용하는 객체�
 
 
 
-**구현 클래스** 
+**구현 클래스**
 
-![image-20230129195736755](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20230129195736755.png)
-
-
-
-**스프링 설정 **
+![image-20230129195736755](https://user-images.githubusercontent.com/59475851/215321907-a78fc054-11d6-482d-b650-8477598737b6.png)
 
 
+**스프링 설정**
 
-![image-20230129195839357](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20230129195839357.png)
-
-
-
+![image-20230129195839357](https://user-images.githubusercontent.com/59475851/215321913-8142092a-5e31-4c84-b939-a1ae805d5119.png)
 
 
 **개방-폐쇄 원칙(OCP, Open-Closed Principle) 확장에는 열려있고, 수정, 변경에는 닫혀있다.** 
